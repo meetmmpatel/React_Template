@@ -1,0 +1,12 @@
+body {
+	margin: 20px;
+  padding: 30px;
+  /* Please one of these font style */
+	/* font-family: "Karla", sans-serif;
+	font-family: "Heebo", sans-serif;
+	font-family: "Ma Shan Zheng", cursive; */
+}
+
+code {
+	font-family: "Karla", sans-serif;
+}
